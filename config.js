@@ -6,5 +6,5 @@ config = {
 
     // 请求量大时需要在 github 后台单独设置一个读取公开库的 token
     // 将配置好的 access token 拆分成两个字符串相加
-    access_token: "dbfe3dd66ee904988f2b"+"aaaf9bf49a03b6e3fd62"
+    access_token: "381ef83efcfce0c2db7ce"+"1296f66c30c92330186"
 };
